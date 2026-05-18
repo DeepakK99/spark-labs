@@ -1,0 +1,21 @@
+ShipmentID,OrderDate,ShipDate,CustomerName,OriginCity,DestinationCity,Carrier,TrackingNumber,WeightKg,ShippingCostUSD,Status,DeliveryDate
+SHP1001,2026-05-01,2026-05-02,Acme Retail,Bengaluru,Hyderabad,DHL,TRK9384721,12.5,45.99,Delivered,2026-05-05
+SHP1002,2026-05-01,2026-05-03,GreenLeaf Stores,Chennai,Mumbai,FedEx,TRK9384722,8.2,32.50,In Transit,
+SHP1003,2026-05-02,2026-05-03,Urban Cart,Delhi,Pune,Blue Dart,TRK9384723,15.0,58.75,Delivered,2026-05-06
+SHP1004,2026-05-02,2026-05-04,TechNova,Ahmedabad,Kolkata,Delhivery,TRK9384724,20.1,72.10,Pending,
+SHP1005,2026-05-03,2026-05-04,Fresh Mart,Jaipur,Surat,DHL,TRK9384725,5.7,21.40,Delivered,2026-05-07
+SHP1006,2026-05-03,2026-05-05,Prime Supplies,Lucknow,Bhopal,FedEx,TRK9384726,11.9,40.80,Cancelled,
+SHP1007,2026-05-04,2026-05-05,NextGen Electronics,Kochi,Nagpur,Blue Dart,TRK9384727,18.4,66.25,In Transit,
+SHP1008,2026-05-04,2026-05-06,Sunrise Traders,Patna,Indore,Delhivery,TRK9384728,7.3,29.99,Delivered,2026-05-09
+SHP1009,2026-05-05,2026-05-06,Metro Wholesale,Visakhapatnam,Chandigarh,DHL,TRK9384729,22.6,80.45,Pending,
+SHP1010,2026-05-05,2026-05-07,BlueOcean Imports,Coimbatore,Noida,FedEx,TRK9384730,13.8,49.90,Delivered,2026-05-10
+SHP1011,2026-05-06,2026-05-07,Alpha Enterprises,Nashik,Ranchi,Blue Dart,TRK9384731,9.5,35.60,In Transit,
+SHP1012,2026-05-06,2026-05-08,Smart Living,Guwahati,Bhubaneswar,Delhivery,TRK9384732,16.7,61.30,Delivered,2026-05-12
+SHP1013,2026-05-07,2026-05-08,Elite Furnishings,Mysuru,Raipur,DHL,TRK9384733,25.4,95.20,Pending,
+SHP1014,2026-05-07,2026-05-09,QuickBuy Retail,Vadodara,Madurai,FedEx,TRK9384734,6.1,24.75,Delivered,2026-05-11
+SHP1015,2026-05-08,2026-05-09,Omni Logistics,Kanpur,Jodhpur,Blue Dart,TRK9384735,14.2,52.40,In Transit,
+SHP1016,2026-05-08,2026-05-10,Vision Tech,Srinagar,Amritsar,Delhivery,TRK9384736,10.8,38.95,Delivered,2026-05-13
+SHP1017,2026-05-09,2026-05-10,Everest Supplies,Tirupati,Agra,DHL,TRK9384737,19.6,70.15,Cancelled,
+SHP1018,2026-05-09,2026-05-11,Rapid Commerce,Aurangabad,Dehradun,FedEx,TRK9384738,4.9,19.80,Delivered,2026-05-14
+SHP1019,2026-05-10,2026-05-11,Crystal Retail,Hubballi,Gwalior,Blue Dart,TRK9384739,17.1,63.55,Pending,
+SHP1020,2026-05-10,2026-05-12,Zenith Exports,Thiruvananthapuram,Udaipur,Delhivery,TRK9384740,21.3,77.90,In Transit,
